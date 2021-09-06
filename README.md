@@ -1,3 +1,4 @@
+
 Systec Summer School: Module 3 -- Power Quality 
 ----
 
@@ -34,6 +35,9 @@ There are two options:
 
 #### Three-phase analysis
 * get the impedance value of the load.
+
+#### Check the deliverable template in:
+[..\1. scripts\template.mlx](https://github.com/vitormorais/SummerSchool_PowerQuality/raw/main/1.%20scripts/template.mlx)
 
 
 ----
