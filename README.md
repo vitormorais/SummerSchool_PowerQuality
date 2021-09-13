@@ -3,7 +3,7 @@ Systec Summer School: Module 3 -- Power Quality
 ----
 
 ## UPDATE: 
-Presentation in the following [LINK](https://github.com/vitormorais/SummerSchool_PowerQuality/raw/main/Systec_SummerSchool_2021_PQIssues.pdf)
+Presentation in the following [LINK](https://github.com/vitormorais/SummerSchool_PowerQuality/blob/main/Systec_SummerSchool_2021_PQIssues.pdf)
 
 ---
 ## DESCRIPTION
